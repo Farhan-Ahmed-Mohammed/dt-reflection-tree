@@ -70,7 +70,9 @@
 
   { "id": "A3_REF_ALTRO", "type": "reflection", "text": "You focused beyond yourself toward others. This broader perspective is a strong source of purpose.", "signal": "axis3:altro" },
 
-  { "id": "SUMMARY", "type": "summary", "text": "Today you reflected on your sense of control, your contribution, and your impact on others. Small shifts in awareness here can meaningfully shape how you show up tomorrow." },
+  { "id": "SUMMARY", "type": "summary", "text": "Today you explored how you responded to situations, how you contributed, and how broadly you considered others. Awareness in these areas is the first step toward consistent growth." },
+
+  { "id": "FINAL_REFLECTION", "type": "reflection", "text": "Take a moment to carry this awareness into tomorrow. Small changes in how you respond, contribute, and think about others can create meaningful impact." },
 
   { "id": "END", "type": "end", "text": "See you tomorrow." }
 ]
